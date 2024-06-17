@@ -1,0 +1,18 @@
+*Input Data Transaksi
+
+1. Input Data Kuitansi (DTC)
+>Total Biaya
+Apakah pakai Rp dan apakah harus/bisa langsung terketik angka?
+Apakah harus/bisa hanya angka yang bisa di input?
+error (in case 'Isi semua field') padahal sudah semua diisi
+
+2. Input Data Terima Hasil Test (DTD)
+error (in case 'Isi semua field') padahal sudah semua diisi
+
+3.Input Data Hasil Uji Kuat Tekan (DTB)
+Terdapat gap jarak ke bawah antara 'Diterima Tanggal' dan 'Tester'. Jika diselaraskan
+dengan field lainnya seharusnya tidak ada gap kebawah.
+error (in case 'Isi semua field') padahal sudah semua diisi
+
+
+Sudah di testing blackbox dan whitebox
